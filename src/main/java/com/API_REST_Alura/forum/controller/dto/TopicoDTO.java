@@ -4,7 +4,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import com.API_REST_Alura_Forum.Model.Topico;
+import com.API_REST_Alura.forum.model.Topico;
 
 public class TopicoDTO {
 	

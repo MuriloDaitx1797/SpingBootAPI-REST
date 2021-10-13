@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.API_REST_Alura.forum.controller.dto.TopicoDTO;
-import com.API_REST_Alura_Forum.Model.Curso;
-import com.API_REST_Alura_Forum.Model.Topico;
+import com.API_REST_Alura.forum.model.Curso;
+import com.API_REST_Alura.forum.model.Topico;
 
 @RestController
 public class TopicsController {
